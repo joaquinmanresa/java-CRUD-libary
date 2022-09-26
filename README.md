@@ -1,3 +1,3 @@
 # java-CRUD-libary
 
-CRUD (Create read update delete) application with Java and Postgresql
+A very simple CRUD (Create - read - update - delete) application with Java and Postgresql
